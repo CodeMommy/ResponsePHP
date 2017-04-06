@@ -1,0 +1,31 @@
+{
+  "name": "codemommy/responsephp",
+  "version": "0.0.1",
+  "description": "CodeMommy ResponsePHP is a response helper for web development.",
+  "keywords": [
+    "CodeMommy",
+    "ResponsePHP",
+    "PHP"
+  ],
+  "license": "Apache 2.0",
+  "homepage": "http://www.codemommy.com",
+  "support": {
+    "issues": "https://github.com/CodeMommy/ResponsePHP/issues",
+    "source": "https://github.com/CodeMommy/ResponsePHP"
+  },
+  "authors": [
+    {
+      "name": "Candison November",
+      "email": "kandisheng@163.com",
+      "homepage": "http://www.kandisheng.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "CodeMommy\\ResponsePHP\\": "source/"
+    }
+  },
+  "require": {
+    "php": ">=5.3.0"
+  }
+}
