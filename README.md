@@ -6,8 +6,7 @@
 [![Unstable](https://poser.pugx.org/CodeMommy/ResponsePHP/v/unstable?format=flat-square)](https://packagist.org/packages/CodeMommy/ResponsePHP)
 [![composer.lock Available](https://poser.pugx.org/CodeMommy/ResponsePHP/composerlock?format=flat-square)](https://packagist.org/packages/CodeMommy/ResponsePHP)
 
-
-> CodeMommy ResponsePHP is a request helper for web development.
+> Do response for web
 
 Visit [CodeMommy Website](http://www.codemommy.com) or [Packagist](https://packagist.org/packages/CodeMommy/ResponsePHP) to get more information.
 

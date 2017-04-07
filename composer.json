@@ -1,7 +1,7 @@
 {
   "name": "codemommy/responsephp",
   "version": "0.0.1",
-  "description": "CodeMommy ResponsePHP is a response helper for web development.",
+  "description": "Do response for web",
   "keywords": [
     "CodeMommy",
     "ResponsePHP",
